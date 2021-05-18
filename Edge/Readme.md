@@ -1,6 +1,4 @@
-Microsoft Edge
-
-https://www.microsoft.com/en-us/edge/business/download
+Microsoft Edge download: https://www.microsoft.com/en-us/edge/business/download
 
 Action to take on startup Open a new Tab
 
